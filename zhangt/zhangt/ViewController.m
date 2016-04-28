@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"gfsfffddf");
+    NSLog(@"fedf");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
